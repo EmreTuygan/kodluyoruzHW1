@@ -1,2 +1,2 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# kodluyoruzHW1
+Kodluyoruz Eğitimi HTML 1. Odev
